@@ -1,9 +1,3 @@
-```
-Grader comment:
-Cannot run your EER file
-Please see professor.
-```
-
 # Milestone 2: The Relational Model 
 
 ***Note: The ERD has been updated substantially from M1. Initially the diagram had less entities and improper
